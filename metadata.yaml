@@ -1,5 +1,8 @@
 _repo: Text-book-of-forensic-medicine-and-toxicology_74804
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74804-h/images/cover.jpg
 creator:
   author:
     agent_name: Buchanan, R. J. M. (Robert James McLean)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '57656'
     url: http://www.gutenberg.org/2009/agents/57656
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74804#Text-book-of-forensic-medicine-and-toxicology
 edition_note: Eighth edition, revised and enlarged.
 gutenberg_issued: '2024-11-27'
 gutenberg_type: Text
